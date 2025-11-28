@@ -1,0 +1,9 @@
+﻿{
+  "name": "learning-platform-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve -s src",
+    "build": "echo \"No build configured\""
+  }
+}
